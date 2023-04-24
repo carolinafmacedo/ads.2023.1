@@ -1,4 +1,1 @@
-# Função para somar
-somar <- function(a, b){
-  a + b
-}
+soma <- function (a,b)(a +b)
